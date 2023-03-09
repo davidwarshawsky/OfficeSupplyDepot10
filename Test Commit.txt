@@ -1,1 +1,2 @@
 Hello, world!
+This week, test to see if client end can connect to web server to db.
